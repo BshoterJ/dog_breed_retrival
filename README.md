@@ -1,5 +1,5 @@
 # dog_breed_classification_and_retrival
-A project aimed to classify dog breeds and search for the most matched image in the database
+A project aimed to classify dog breeds and search for the most matched images in the database
 
 The detail experiments and usage can be found in my website: https://bshoterj.github.io/2019/01/20/dog-retrival/
 
