@@ -3,7 +3,7 @@ A project aimed to classify dog breeds and search for the most matched images in
 
 The detail experiments and usage can be found in my website: https://bshoterj.github.io/2019/01/20/dog-retrival/
 
-or my group member's github: https://github.com/INFINITSY/dog_test
+or visit my group member's github: https://github.com/INFINITSY/dog_test
 
 ## Requirements
 
